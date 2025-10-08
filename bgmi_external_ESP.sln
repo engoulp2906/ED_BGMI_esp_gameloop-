@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bgmi_external_ESP", "bgmi_external_ESP.vcxproj", "{DEC527B6-D2F4-412C-A394-94D253A36CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC527B6-D2F4-412C-A394-94D253A36CDF}.Debug|x64.ActiveCfg = Debug|x64
+		{DEC527B6-D2F4-412C-A394-94D253A36CDF}.Debug|x64.Build.0 = Debug|x64
+		{DEC527B6-D2F4-412C-A394-94D253A36CDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEC527B6-D2F4-412C-A394-94D253A36CDF}.Debug|x86.Build.0 = Debug|Win32
+		{DEC527B6-D2F4-412C-A394-94D253A36CDF}.Release|x64.ActiveCfg = Release|x64
+		{DEC527B6-D2F4-412C-A394-94D253A36CDF}.Release|x64.Build.0 = Release|x64
+		{DEC527B6-D2F4-412C-A394-94D253A36CDF}.Release|x86.ActiveCfg = Release|Win32
+		{DEC527B6-D2F4-412C-A394-94D253A36CDF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9D69FBB-6FD4-4BD9-B36B-3365C86EDC9E}
+	EndGlobalSection
+EndGlobal
